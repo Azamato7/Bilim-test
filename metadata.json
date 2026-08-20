@@ -1,0 +1,6 @@
+{
+  "name": "Milliy Sertifikat",
+  "description": "O'zbekiston Milliy Sertifikat onlayn test platformasi, 45 ta savolli imtihonlar, Rasch modeli va rasmiy sertifikatlar tizimi",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
